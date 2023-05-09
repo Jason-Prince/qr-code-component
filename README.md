@@ -21,8 +21,8 @@ realistic projects.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://qr-code.jason-prince.com/)
+- [Solution URL](https://www.frontendmentor.io/solutions/nextjs-css-grid-and-styled-components-UvIxV8TGoh)
+- [Live Site URL](https://qr-code.jason-prince.com/)
 
 ### Built with
 
